@@ -2,8 +2,8 @@
 
 A clean and functional to-do list application built with **vanilla JavaScript, HTML, and CSS**. This project demonstrates core JavaScript concepts, including DOM manipulation, event handling, and data persistence using `localStorage`. It's a classic project that showcases strong foundational web development skills.
 
-![To-Do App Screenshot](https://i.imgur.com/sC3vY3k.png)
-*(Feel free to replace this with your own screenshot!)*
+![To-Do App Screenshot](./assets/Screenshot.png)
+
 
 ---
 
